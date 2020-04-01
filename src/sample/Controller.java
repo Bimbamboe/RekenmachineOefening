@@ -24,6 +24,5 @@ public class Controller {
 
     @FXML
     private void maalButtonClicked (ActionEvent event) {
-
     }
 }
